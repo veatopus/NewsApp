@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="for_you">For you</string>
+    <string name="tab_text_1">Article</string>
+    <string name="tab_text_2">Blog</string>
+    <string name="tab_text_3">Report</string>
+</resources>
